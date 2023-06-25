@@ -1,7 +1,16 @@
-Hello #connections !!
+OIBSIP_Java-Programming_Task3
 
-I have completed my Task 3 as Java Development Intern at Oasis Infobyte Thank You for this opportunity.
+OIBSIP_Java Programming Internship_Task3_ATM-Interface
 
-Task : AtmInterface
+We have all come across ATMs in our cities and it is built on Java. This complex project consists of five different classes and is a console-based application. When the system starts the user is prompted with user id and user pin. On entering the details successfully, then ATM functionalities are unlocked. The project allows to perform following operations:
 
-#java #development #intern #github #oasisinfobyte
+Transactions History
+
+Withdraw
+
+Deposit
+
+Transfer
+
+Quit
+
